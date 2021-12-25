@@ -1,4 +1,5 @@
 *Date:* 25-December-2021
+*URL:* https://vipul-wakodikar.github.io/Nasa-Api/
 *Made by:* Vipul Wakodikar
 *Mentor:* Sharad Trikha
 *Organization:* Newton School
@@ -9,7 +10,7 @@
             https://images-api.nasa.gov/search?q=${searchText}
 
 # INTRODUCTION
-
+    Website can be best viewed in Desktop/Laptop
     At the start of the website you will observe an Image/Photo, Information about the Image/photo Date at which this is published and the credit who capture the image all this information is published by Nasa this information will be updated every 24 hours with new image and its description. Search bar is available at the top. where you can search various Nasa library like planets, galaxy etc.
 
 # DESCRIPTION
