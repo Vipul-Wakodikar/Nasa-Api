@@ -1,14 +1,14 @@
 # CREDITS
 *Date:* 25-December-2021 <br />
-*URL:* https://vipul-wakodikar.github.io/Nasa-Api/
-*Made by:* Vipul Wakodikar
-*Mentor:* Sharad Trikha
-*Organization:* Newton School
-*Tools used:* ReactJs
-*npm packages used:* Axios, gh-pages
-*API used:* https://api.nasa.gov/
-            https://api.nasa.gov/planetary/apod
-            https://images-api.nasa.gov/search?q=${searchText}
+*URL:* https://vipul-wakodikar.github.io/Nasa-Api/ <br />
+*Made by:* Vipul Wakodikar <br />
+*Mentor:* Sharad Trikha <br />
+*Organization:* Newton School <br />
+*Tools used:* ReactJs <br />
+*npm packages used:* Axios, gh-pages <br />
+*API used:* https://api.nasa.gov/ <br />
+            https://api.nasa.gov/planetary/apod <br />
+            https://images-api.nasa.gov/search?q=${searchText} <br />
 
 # INTRODUCTION
 Website can be best viewed in Desktop/Laptop
